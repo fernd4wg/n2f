@@ -1,3 +1,5 @@
-#! /bin/bash 
+#! /bin/bash
 
-
+gcc -Wall freq.c -lm -o freq
+cd /home/f/git/n2f/freq/
+./freq $1
