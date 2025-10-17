@@ -1,4 +1,4 @@
-# n2f note to frequency 
+# n2f: note to frequency 
 
 - To get this on your system to work on just run:
 ```
